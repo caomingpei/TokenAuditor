@@ -1,0 +1,8 @@
+**/__pycache__
+.env
+.history
+.idea/
+evaluation/dataset/ERC20
+evaluation/dataset/ERC721
+result/
+evaluation/exp_result/

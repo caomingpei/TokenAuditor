@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+preferred-citation:
+  type: conference-paper
+  authors:
+  - family-names: "Cao"
+    given-names: "Mingpei"
+  - family-names: "Zhang"
+    given-names: "Yueze"
+  - family-names: "Feng"
+    given-names: "Zhenxuan"
+  - family-names: "Hu"
+    given-names: "Jiahao"
+  - family-names: "Zhu"
+    given-names: "Yuesheng"
+  title: "TokenAuditor: Detecting Manipulation Risk in Token Smart Contract by Fuzzing"
+  booktitle: Proceeding of the 22nd {IEEE} International Conference on Software Quality, Reliability and Security (QRS'22), Guangzhou, China, December 5-9, 2022
+  start: 651 # First page number
+  end: 662 # Last page number
+  publisher: IEEE
+  year: 2022
+  url: https://doi.org/10.1109/QRS57517.2022.00071
+  doi: "10.1109/QRS57517.2022.00071"
