@@ -20,8 +20,8 @@
 - [About](#about)
 - [Getting Started](#getting_started)
 - [Usage](#usage)
-- [Authors](#authors)
 - [Contributing](#contributing)
+- [Acknowledgements](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
 This project implements a fuzz testing method for detecting manipulation risk  in token smart contracts. There are four common kinds of manipulation risk which could be detected by our project: *Compatibility*,*Preallocation*,*Authority Management* and *Freezing Backdoor*.
